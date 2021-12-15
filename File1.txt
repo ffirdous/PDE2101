@@ -1,2 +1,3 @@
-15th December:
+15th December 2021:
 We learnt about version control.
+This module has a duration of 24 weeks.
